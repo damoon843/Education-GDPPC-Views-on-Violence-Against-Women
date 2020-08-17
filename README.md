@@ -1,13 +1,8 @@
-# Education-and-GDP-Per-Capita-and-Views-on-Violence-Against-Women
 <!-- Add banner here -->
 
-# Project Title
+# A Study of the Relationship Among Education, GDP Per Capita, and Views on Violence Against Women
 
-<!-- Add buttons here -->
-
-<!-- Describe your project in brief -->
-
-<!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
+This project focuses on the effect of level of education and GDP per capita to explain views on violence against women. The data for this project comes from [here](https://www.kaggle.com/andrewmvd/violence-against-women-and-girls?). To learn more about Operation Fistula and their work, visit [this](https://opfistula.org/) website.
 
 Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
 
